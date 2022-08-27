@@ -1,0 +1,534 @@
+Buscar
+Buscar 300+ tutoriales
+freeCodeCamp.org
+Foro Donar
+Authenticated: Apoya a nuestra organización sin fines de lucro y nuestra misión. Dona a freeCodeCamp.org.
+
+3 DE FEBRERO DE 2022
+/
+#JAVASCRIPT
+40 proyectos de JavaScript para principiantes: Ideas fáciles para empezar a codificar en JS
+Rafael D. Hernandez
+Rafael D. Hernandez
+40 proyectos de JavaScript para principiantes: Ideas fáciles para empezar a codificar en JS
+Artículo original escrito por: Jessica Wilkins
+Artículo original: 40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
+Traducido y adaptado por: Rafael D. Hernandez
+
+* Los tutoriales referidos estan en inglés
+La mejor manera para aprender un nuevo lenguaje de programación es construyendo proyectos.
+
+He creado una lista de 40 tutoriales de proyectos para principiantes en JavaScript Vainilla, React y TypeScript.
+
+Mi consejo con los tutoriales sería que veas el video, construye el proyecto, divídelo en partes y reconstruirlo a tu manera. Experimenta añadiendo nuevas características o usa diferentes métodos.
+
+Eso probará si realmente has aprendido los conceptos o no.
+
+Puedes hacer clic en cualquiera de los proyectos enumerados a continuación para ir a esa sección del artículo.
+
+Proyectos de JavaScript de vainilla
+Cómo crear una aleta de color
+Cómo crear un contador
+Cómo crear un carrusel de revisión
+Cómo crear una barra de navegación responsiva
+Cómo crear una barra lateral
+Cómo crear un modal
+Cómo crear una página de preguntas frecuentes
+Cómo crear una página de menú de restaurante
+Cómo crear un fondo de vídeo
+Cómo crear una barra de navegación en scroll
+Cómo crear pestañas que muestren contenido diferente
+Cómo crear un reloj de cuenta regresiva
+Cómo crear tu propio Lorem ipsum
+Cómo crear una lista de compras
+Cómo crear un deslizador de imágenes
+Cómo crear una piedra, papel, tijeras juego
+Cómo crear un juego de Simon
+Cómo crear un juego de plataformas
+Cómo crear doodle jump
+Cómo crear flappy bird
+Cómo crear un juego de memoria
+Cómo crear un juego de golpear a un topo
+Cómo crear un juego de conectar cuatro
+Cómo crear una serpiente juego
+Cómo crear un juego de Space Invaders
+Cómo crear un juego de Frogger
+Cómo crear un juego de Tetris
+Proyectos de React
+Cómo construir un juego de Tic-Tac-Toe usando React Hooks
+Cómo construir un juego de Tetris usando React Hooks
+Cómo crear una aplicación de recordatorio de cumpleaños
+Cómo crear una página de tours
+Cómo crear un menú de acordeón
+Cómo crear pestañas para una página de portafolio
+Cómo crear un control deslizante de revisión
+Cómo crear un generador de colores
+Cómo crear una página de menú de pago de Stripe
+Cómo crear una página de carrito de compras
+Cómo crear una página de búsqueda de cócteles
+Proyectos de TypeScript
+Cómo crear una aplicación de Prueba con React y TypeScript
+Cómo crear un juego de Arkanoid con TypeScript
+Proyectos de JavaScript de vainilla
+Si no ha aprendido los fundamentos de JavaScript, te sugiero que veas este curso antes de continuar con los proyectos.
+
+Muchas de las capturas de pantalla a continuación son de aquí.
+
+Cómo crear un cambiador de colores
+color-flipper
+En este tutorial de John Smilga, aprenderá a crear un cambiador de color de fondo aleatorio. Este es un buen proyecto para empezar a trabajar con el DOM.
+
+En el artículo de Leonardo Maldonado sobre por qué es importante aprender sobre el DOM, afirma:
+
+Manipulando el DOM, tienes infinitas posibilidades. Puedes crear aplicaciones que actualicen los datos de la página sin necesidad de actualizarlos. Además, puedes crear aplicaciones personalizables por el usuario y, despues, cambiar el diseño de la página sin necesidad de actualizarla.
+Conceptos clave cubiertos:
+arreglos
+document.getElementById()
+document.querySelector()
+addEventListener()
+document.body.style.backgroundColor
+Math.floor()
+Math.random()
+arreglo.length
+Antes de empezar, te sugiero que veas la introducción en la que John explica cómo acceder a los archivos de configuración de todos sus proyectos.
+
+Cómo crear un contador
+counter
+En este tutorial de John Smilga, aprenderás a crear un contador y escribir condiciones que cambien el color en función de los números positivos o negativos mostrados.
+
+Este proyecto te dará más práctica trabajando con el DOM y puedes usar este simple contador en otros proyectos como un reloj pomodoro.
+
+Conceptos clave cubiertos:
+document.querySelectorAll()
+forEach()
+addEventListener()
+currentTargetproperty
+classList
+textContent
+Cómo crear un carrusel de revisión
+reviews
+En este tutorial, aprenderás a crear un carrusel de revisión con un botón que genere revisiones aleatorias.
+
+Esta es una buena característica para tener en un sitio de comercio electrónico para mostrar comentarios de clientes o un portafolio personal para mostrar comentarios de clientes.
+
+Conceptos clave cubiertos:
+objetos
+DOMContentLoaded
+addEventListener()
+arreglo.length
+textContent
+Cómo crear una barra de navegación responsiva
+navbar-1
+En este tutorial, aprenderás a crear una barra de navegación responsiva que mostrará el menú de hamburguesa para dispositivos más pequeños.
+
+Aprender a desarrollar sitios web receptivos es una parte importante de ser un desarrollador web. Esta es una característica popular utilizada en muchos sitios web.
+
+Conceptos clave cubiertos:
+documento.querySelector()
+addEventListener()
+classList.alternar()
+Cómo crear una barra lateral
+sidebar
+En este tutorial, aprenderás a crear una barra lateral con animación.
+Esta es una característica genial que puedes agregar a tu sitio web personal.
+
+Conceptos clave cubiertos:
+document.querySelector()
+addEventListener()
+classList.toggle()
+classList.remove()
+Cómo crear un modal
+modal
+En este tutorial, aprenderás a crear una ventana modal que se usa en sitios web para que los usuarios hagan o vean algo específico.
+
+Un buen ejemplo de una ventana modal sería si un usuario realizara cambios en un sitio sin guardarlos e intentara ir a otra página. Puedes crear una ventana modal que les avise de que guarden sus cambios o de lo contrario esa información se perderá.
+
+Conceptos clave cubiertos:
+document.querySelector()
+addEventListener()
+classList.add()
+classList.remove()
+Cómo crear una página de preguntas frecuentes
+FAQ-section
+En este tutorial, aprenderás a crear una página de preguntas frecuentes que educa a los usuarios sobre un negocio y dirige el tráfico al sitio web a través de resultados de búsqueda orgánicos.
+
+Conceptos clave cubiertos:
+document.querySelectorAll()
+addEventListener()
+forEach()
+classList.remove()
+classList.toggle()
+Cómo crear una página de menú de restaurante
+menu
+En este tutorial, aprenderás a hacer una página de menú de restaurante que filtre a través de los diferentes menús de comida. Este es un proyecto divertido que te enseñará funciones de orden superior como map, reduce y filter.
+
+En el artículo de Yazeed Bzadough sobre funciones de orden superior, el afirma:
+
+el mayor beneficio de las funciones de ordern superior es una mayor reutilización.
+Conceptos clave cubiertos:
+arreglos
+objetos
+forEach()
+DOMContentLoaded
+map, reducer y filter
+innerHTML
+método includes
+Cómo crear un fondo de vídeo
+video-1
+En este tutorial, aprenderá a hacer un fondo de video con una función de reproducción y pausa.  Esta es una característica común que se encuentra en muchos sitios web.
+
+Conceptos clave cubiertos:
+document.querySelector()
+addEventListener()
+classList.contains()
+classList.add()
+classList.remove()
+play()
+pause()
+Cómo crear una barra de navegación en scroll
+scroll-page
+En este tutorial, aprenderás a crear una barra de navegación que se deslice hacia abajo al desplazarse y luego permanezca en una posición fija a cierta altura.
+
+Esta es una característica popular que se encuentra en muchos sitios web profesionales.
+
+Conceptos clave cubiertos:
+document.getElementById()
+getFullYear()
+getBoundingClientRect()
+método slice
+window.scrollTop()
+Cómo crear pestañas que muestren contenido diferente
+tabs
+En este tutorial, aprenderás a crear pestañas que mostrarán contenido diferente, lo cual es útil al crear aplicaciones de una sola página.
+
+Conceptos clave cubiertos:
+classList.add()
+classList.remove()
+forEach()
+addEventListener()
+Cómo crear un reloj de cuenta regresiva
+countdown
+En este tutorial, aprenderás a hacer un reloj de cuenta regresiva que se puede usar cuando sale un nuevo producto o cuando una venta está a punto de terminar en un sitio de comercio electrónico.
+
+Conceptos clave cubiertos:
+getFullYear()
+getMonth()
+getDate()
+Math.floor()
+setInterval()
+clearInterval()
+Cómo crear tu propio Lorem ipsum
+lorem-ipsum
+En este tutorial, aprenderás a crear su propio generador Lorem ipsum.
+
+Lorem ipsum es el texto de marcador de posición para sitios web. Este es un proyecto divertido para mostrar tu creatividad y crear tu propio texto.
+
+Conceptos clave cubiertos:
+parseInt()
+Math.floor()
+Math.random()
+isNaN()
+método slice
+event.preventDefault()
+Cómo crear una lista de compras
+grocery-list
+En este tutorial, aprenderás a actualizar y eliminar elementos de una lista de compras y crear una aplicación simple CRUD (Crear, Leer, Actualizar y Eliminar).
+
+CRUD juega un papel muy importante en el desarrollo de aplicaciones de full-stack. Sin él, no podrías hacer cosas como editar o eliminar publicaciones en tu plataforma de redes sociales favorita.
+
+Conceptos clave cubiertos:
+DOMContentLoaded
+new Date()
+createAttribute()
+setAttributeNode()
+appendChild()
+filter()
+map()
+Cómo crear un deslizador de imágenes
+image-slider
+En este tutorial, aprenderás a crear un deslizador de imágenes que puedes agregar a cualquier sitio web.
+
+Conceptos clave cubiertos:
+querySelectorAll()
+addEventListener()
+forEach()
+sentencias if / else
+Cómo crear el juego de piedra, papel, tijeras
+rock-paper-scissors
+En este tutorial, Tenzin te enseñará cómo crear el juego de piedra, papel, tijeras. Este es un proyecto divertido que le dará más práctica al trabajo con el DOM.
+
+Conceptos clave cubiertos:
+addEventListener()
+Math.floor()
+Math.random()
+sentencias switch
+Cómo crear un juego de Simon
+simon-game
+En este tutorial, Beau Carnes te enseñará a crear el clásico juego de Simon. Este es un buen proyecto que te hará pensar en los diferentes componentes detrás del juego y cómo construir cada una de esas funcionalidades.
+
+Conceptos clave cubiertos:
+querySelector()
+addEventListener()
+setInterval()clearInterval()
+setTimeout()
+play()
+Math.floor()
+Math.random()
+Cómo crear un juego de plataformas
+platformer-game
+En este tutorial, Frank Poth te enseñará a construir un juego de plataformas. Este proyecto te presentará los principios de Programación Orientada a Objetos y el Modelo, la Vista y Controlador, el patrón de software.
+
+Conceptos clave cubiertos:
+this palabra clave
+bucle for
+sentencias switch
+Principios de POO
+Patrón MVC
+API de Canvas
+Cómo crear doodle jump y flappy bird
+doodle-jump
+En esta serie de videos, Ania Kubow te enseñará cómo construir Doodle Jump y Flappy Bird.
+
+La construcion juegos es una forma divertida de aprender más sobre JavaScript y cubrirán muchos métodos de JavaScript populares e importantes.
+
+Conceptos clave cubiertos:
+createElement()
+forEach()
+setInterval()
+clearInterval()
+removeChild()
+appendChild()
+addEventListener()
+removeEventListener()
+Cómo crear siete juegos clásicos con Ania Kubow
+7-js-games
+Te divertirás mucho creando siete juegos en este curso de Ania Kubow:
+
+Juego de Memoria
+Whack-a-mole
+Conectar Cuatro
+Serpiente
+Invasores del Espacio
+Frogger
+Tetris
+Conceptos clave cubiertos:
+bucles for
+evento onclick
+funciones de flecha
+sort()
+pop()
+unshift()
+push()
+indexOf()
+includes()
+splice()
+concat()
+Proyectos de React
+Si no está familiarizado con los fundamentos de React, te sugiero que tomes este curso antes de continuar con los proyectos.
+
+Cómo construir un juego de Tic-Tac-Toe usando React Hooks
+tic-tac-game-1
+En este artículo de FreeCodeCamp, Per Harald Borgen habla sobre el tutorial de juego Tic-Tac-Toe de Scrimba dirigido por Thomas Weibenfalk. Puedes ver el curso en video en el canal de YouTube de Scrimba.
+
+Este es un buen proyecto para comenzar a sentirse cómodo con lo basico de React y trabajar con hooks.
+
+Conceptos clave cubiertos:
+useState()
+importación / exportación
+JSX
+Cómo construir un juego de Tetris usando React Hooks
+react-tetris-1
+En este tutorial, Thomas Weibenfalk te enseñará cómo construir un juego de Tetris usando React hooks y componentes con estilo.
+
+Conceptos clave cubiertos:
+
+useState()
+useEffect()
+useRef()
+useCallback()
+componentes con estilo
+Cómo crear una aplicación de recordatorio de cumpleaños
+brithday-app
+Screenshot from https://react-projects.netlify.app/
+En este curso de John Smilga, aprenderás a crear una aplicación de recordatorio de cumpleaños. Este es un buen proyecto para comenzar a sentirse cómodo con los conceptos básicos de React y trabajar con hooks.
+
+También sugeriría ver el video de John sobre los archivos de inicio de este proyecto.
+
+Conceptos clave cubiertos:
+useState()
+importación / exportación
+JSX
+map()
+Cómo crear una página de tours
+tours-page
+Screenshot from https://react-projects.netlify.app/
+En este tutorial, aprenderás a crear una página de giras en la que el usuario puede eliminar giras que no le interesan.
+
+Esto te dará la práctica con los React hooks y el patrón async/await.
+
+Conceptos clave cubiertos:
+try...sentencias de capturas (catch)
+patrón async/await
+useEffect()
+useState()
+Cómo crear un menú de acordeón
+accordion-react
+Screenshot from https://react-projects.netlify.app/
+En este tutorial, aprenderá a crear un menú de acordeón de preguntas y respuestas. Estos menús pueden ser útiles para revelar contenido a los usuarios de manera progresiva.
+
+Conceptos clave cubiertos:
+React iconos
+useState()
+map()
+Cómo crear pestañas para una página de portafolio
+tabs-portfolio-page-react
+Screenshot from https://react-projects.netlify.app/
+En este tutorial, aprenderás a crear pestañas para una página de portafolio simulada. Las pestañas son útiles cuando deseas mostrar contenido diferente en aplicaciones de una sola página.
+
+Conceptos clave cubiertos:
+patrón async/await
+React iconos
+useEffect()
+useState()
+Cómo crear un control deslizante de revisión
+react-slider
+Screenshot from https://react-projects.netlify.app/
+En este tutorial, aprenderás a crear un control deslizante de revisión que cambia a una nueva revisión cada pocos segundos.
+
+Esta es una característica genial que puedes incorporar en un sitio o portafolio de comercio electrónico.
+
+Conceptos clave cubiertos:
+React iconos
+useEffect()
+useState()
+map()
+Cómo crear un generador de colores
+react-color-generator
+Screenshot from https://react-projects.netlify.app/
+En este tutorial, aprenderás a crear un generador de colores. Este es un buen proyecto para seguir practicando el trabajo con hooks y setTimeout.
+
+Conceptos clave cubiertos:
+setTimeout()
+clearTimeout()
+useState()
+useEffect()
+try...sentencias de capturas (catch)
+event.preventDefault()
+Cómo crear una página de menú de pago de Stripe
+stripe-page
+Screenshot from https://react-projects.netlify.app/
+En este tutorial, aprenderás a crear una página de menú de pago de Stripe. Este proyecto te dará buenas prácticas sobre cómo diseñar una página de destino de producto usando componentes de React.
+
+Conceptos clave cubiertos:
+React iconos
+useRef()
+useEffect()
+useState()
+useContext()
+Cómo crear una página de carrito de compras
+shopping-cart-page
+Screenshot from https://react-projects.netlify.app/
+En este tutorial, aprenderás a crear una página de carrito de compras que actualice y elimine elementos. Este proyecto también será una buena introducción al hook useReducer.
+
+Conceptos clave cubiertos:
+map()
+filter()
+elementos <svg>
+useReducer()
+userContext()
+Cómo crear una página de búsqueda de cócteles
+cocktails-page
+Screenshot from https://react-projects.netlify.app/
+En este tutorial, aprenderás a crear una página de búsqueda de cócteles. Este proyecto te dará una introducción a cómo usar React router.
+
+React router te da la capacidad de crear una navegación en tu sitio web y cambiar las vistas a diferentes componentes, como una página acerca de o de contacto.
+
+Conceptos clave cubiertos:
+<Router>
+<Switch>
+userCallback()
+userContext()
+useEffect()
+useState()
+Proyectos de TypeScript
+Si no estás familiarizado con TypeScript, te sugiero que veas este curso antes de continuar con este proyecto.
+
+Cómo crear una aplicación de prueba con React y TypeScript
+quiz-app
+En este tutorial, Thomas Weibenfalk te enseñará cómo crear una aplicación de prueba con React y TypeScript. Esta es una buena oportunidad para practicar los conceptos básicos de TypeScript.
+
+Conceptos clave cubiertos:
+React.FC
+componentes con estilo
+dangerouselySetInnerHMTL
+Cómo crear un juego de Arkanoid con TypeScript
+akrnoid-game
+En este tutorial, Thomas Weibenfalk te enseñará cómo construir el clásico juego Arkanoid en TypeScript. Este es un buen proyecto que te dará práctica trabajando con los conceptos básicos de TypeScript.
+
+Conceptos clave cubiertos:
+Tipos
+Clases
+Módulos
+HTMLCanvasElement
+Espero que disfrutes de esta lista de 40 tutoriales de proyectos en JavaScript Vainilla, React y TypeScript.
+
+¡Feliz programación!
+
+Rafael D. Hernandez
+Rafael D. Hernandez
+Web Developer | Global Language Translations Lead at @freeCodeCamp
+
+Si leíste hasta aquí, haz un tweet al autor para mostrarle que te importa su trabajo. Realiza un Tweet de agradecimiento
+
+Aprende a codificar de forma gratuita. El plan de estudios de código abierto de freeCodeCamp ha ayudado a más de 40,000 personas a obtener trabajos como desarrolladores. Empieza
+
+freeCodeCamp es una organización sin fines de lucro exenta de impuestos 501(c)(3) respaldada por donantes (Número de identificación fiscal federal de los Estados Unidos: 82-0779546)
+
+Nuestra misión: ayudar a las personas a aprender a programar de forma gratuita. Logramos esto mediante la creación de miles de videos, artículos y lecciones de programación interactivas, todos disponibles gratuitamente para el público. También tenemos miles de grupos de estudio de FreeCodeCamp en todo el mundo.
+
+Las donaciones a freeCodeCamp se destinan a nuestras iniciativas educativas y ayudan a pagar los servidores, los servicios y el personal.
+
+Puedes hacer una donación deducible de impuestos aquí.
+
+Guías de tendencias
+Git Clone
+Métodos Agile
+Python Main
+Callback
+Debounce
+URL Encode
+Blink HTML
+Python Tupla
+JavaScript Push
+Java List
+UX
+Proceso de Diseño
+Números Primos
+Diseño de Producto
+Digital Design
+Juegos de Código
+SVM
+JavaScript forEach
+Google BERT
+Create Table SQL
+Diseño Web Responsive
+¿Qué es un archivo SVG?
+PDF Password Remover
+¿Qué es un Archivo PDF?
+What Is Python?
+¿Qué es TLS?
+¿Qué es una red LAN?
+¿Qué es npm?
+Ejemplos de RSync
+Random Forest
+Acerca de
+Red de ex-Alumnos
+Código abierto
+Tienda
+Soporte
+Patrocinadores
+Honestidad Académica
+Código de Conducta
+Política de privacidad
+Términos de servicio
+Política de derechos de autor
